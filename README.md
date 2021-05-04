@@ -16,13 +16,13 @@ I evaluated each model and compared the performance.
      
  * **Model Summary**
 
-   ![model.summary](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2311/Images/FNG_model.summary.png)
-   
+   ![model.summary](https://github.com/arzuisiktopbas/11-LSTM_Stock_Predictor/blob/main/Images/FNG_model.summary.png)
+
  * **Performance**
  
    loss: 0.0769
    
-   ![FNG](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2311/Images/FNG.png)
+   ![FNG](https://github.com/arzuisiktopbas/11-LSTM_Stock_Predictor/blob/main/Images/FNG.png)
 
 ### LSTM Stock Predictor Using Closing Prices
  
@@ -34,13 +34,13 @@ I evaluated each model and compared the performance.
      
  * **Model Summary**
 
-   ![model.summary](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2311/Images/Closing_model.summary.png)
+   ![model.summary](https://github.com/arzuisiktopbas/11-LSTM_Stock_Predictor/blob/main/Images/Closing_model.summary.png)
    
  * **Performance**
  
    loss: 0.0134
    
-   ![Closing](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%2311/Images/Close.png)
+   ![Closing](https://github.com/arzuisiktopbas/11-LSTM_Stock_Predictor/blob/main/Images/Close.png)
 
 
 ### Evaluate the performance of each model
