@@ -1,8 +1,8 @@
-# Unit 14 Homework Assignment - LSTM Stock Predictor
+# LSTM Stock Predictor
 
 *by Arzu ISIK TOPBAS*
 
-In this assignment, I used deep learning recurrent neural networks to model bitcoin closing prices. I used the FNG indicators to predict the closing price for one model while the second model, I used a window of closing prices to predict the nth closing price.
+I used deep learning recurrent neural networks to model bitcoin closing prices. I used the FNG indicators to predict the closing price for one model while the second model, I used a window of closing prices to predict the nth closing price.
 I evaluated each model and compared the performance.
 
 ### The Performance of each model
